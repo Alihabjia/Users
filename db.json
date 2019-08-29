@@ -1,0 +1,50 @@
+{
+  "data":
+        [
+          {
+            "id":1,
+            "nom":"",
+            "prenom":"",
+            "email":"SocialX@pulse.digital",
+            "password":"socialx1234",
+            "telephone":"0522203030",
+            "avatar":"https://socialx.network/wp-content/uploads/2018/05/socialx-logo-black.png",
+            "type":"S.A.R.L",
+            "registreCommerce":"40204",
+            "raisonSocial":"SocialX",
+            "capitalSocial":"500000",
+            "siegeSocial":"Quartier industriel ,Casablanca",
+            "premium":"https://img.icons8.com/ios-glyphs/2x/diamond.png"
+          },
+          {
+            "id":2,
+            "nom":"",
+            "prenom":"",
+            "email":"BMD@pulse.digital",
+            "password":"bmd1234",
+            "telephone":"0522270416",
+            "avatar":"http://bmd.ma/wp-content/uploads/2019/03/logo-bmd-menu-1.png",
+            "type":"S.A.R.L",
+            "registreCommerce":"31415",
+            "raisonSocial":"BMD",
+            "capitalSocial":"100000",
+            "siegeSocial":"Boulevard Mohamed Zerktouni, Casablanca",
+            "premium":""
+           },
+          {
+            "id":3,
+            "nom":"",
+            "prenom":"",
+            "email":"apm.maroc@pulse.digital",
+            "password":"apmmar1234",
+            "telephone":"0524300416",
+            "avatar":"",
+            "type":"S.A",
+            "registreCommerce":"24689",
+            "raisonSocial":"APM Terminals",
+            "capitalSocial":"50000000",
+            "siegeSocial":"Zone Franche, Tanger-Médina (AR)",
+            "premium":"https://img.icons8.com/ios-glyphs/2x/diamond.png"
+          }
+            ]
+ }
