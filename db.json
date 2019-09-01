@@ -13,6 +13,7 @@
             "registreCommerce":"40204",
             "raisonSocial":"SocialX",
             "capitalSocial":"500000",
+            "devisCap":"MAD",
             "siegeSocial":"Quartier industriel ,Casablanca",
             "premium":"https://www.flaticon.com/premium-icon/icons/svg/1903/1903134.svg"
           },
@@ -28,6 +29,7 @@
             "registreCommerce":"31415",
             "raisonSocial":"BMD",
             "capitalSocial":"100000",
+            "devisCap":"MAD",
             "siegeSocial":"Boulevard Mohamed Zerktouni, Casablanca",
             "premium":""
            },
@@ -43,6 +45,7 @@
             "registreCommerce":"24689",
             "raisonSocial":"APM Terminals",
             "capitalSocial":"50000000",
+            "devisCap":"EUR",
             "siegeSocial":"Zone Franche, Tanger-Médina (AR)",
             "premium":"https://www.flaticon.com/premium-icon/icons/svg/1903/1903134.svg"
           }
